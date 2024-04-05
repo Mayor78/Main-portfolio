@@ -9,7 +9,7 @@ const AccordionItem = ({ title, content }) => {
         className="flex justify-between items-center p-4 cursor-pointer"
         onClick={() => setIsOpen(!isOpen)}
       >
-        <h2 className="text-lg font-semibold">{title}</h2>
+        <h2 className="text-lg font-semibold  transition-transform hover:transform hover:scale-110">{title}</h2>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className={`h-6 w-6 ${isOpen ? 'transform rotate-180' : ''}`}
