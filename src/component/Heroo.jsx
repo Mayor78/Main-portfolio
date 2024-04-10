@@ -51,7 +51,7 @@ const image1 ="https://anyimage.io/storage/uploads/376b58573d21f41c5b1af3c064d2b
                         Download CV
 
                     </a>
-                    <a href="/contact" className='px-6 py-3 w-full rounded-xl 
+                    <a href="#contact" className='px-6 py-3 w-full rounded-xl 
                     border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500
                     text-white hover:border-none '>
                         Contact

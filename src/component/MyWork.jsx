@@ -76,7 +76,7 @@ const MyWork = () => {
                         </div>
                         </div>
                     </div>
-                    <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+                    {/* <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
                     shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
                     h-[200px] bg-cover relative">
                         <img src={project5} layout='fill' alt="" />
@@ -89,7 +89,7 @@ const MyWork = () => {
                          </a>
                         </div>
                         </div>
-                    </div>
+                    </div> */}
                     
        </div>
     </div>
