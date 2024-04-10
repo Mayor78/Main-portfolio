@@ -16,7 +16,7 @@ const Contact = () => {
                                         <div>
                                             <div className="mt-2.5 relative">
                                                 <input type="text" name='name' id='' placeholder='Your Name'
-                                                className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border-gray-700
+                                                className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700
                                                 rounded-md focus:outline-none focus:border-pink-600' />
                                             </div>
                                         </div>
@@ -24,7 +24,7 @@ const Contact = () => {
                                             <div className="mt-2 5 relative">
                                                 
                                                 <input type="email" name='email' id='' placeholder='Your Email'
-                                                className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border-gray-700
+                                                className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700
                                                 rounded-md focus:outline-none focus:border-pink-600' />
                                             </div>
                                             </div>
