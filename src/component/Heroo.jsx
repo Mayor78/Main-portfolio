@@ -46,7 +46,7 @@ const image1 ="https://anyimage.io/storage/uploads/376b58573d21f41c5b1af3c064d2b
                     My Name Is Abraham Mayowa I have 1+ years experince in web Developer
                 </p>
                 <div className="my-8">
-                    <a href="#https://acrobat.adobe.com/id/urn:aaid:sc:EU:406abbda-c383-4474-acbb-b46a17aabe2b" className='px-6 py-3 w-full rounded-xl mr-4
+                    <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:406abbda-c383-4474-acbb-b46a17aabe2b" className='px-6 py-3 w-full rounded-xl mr-4
                     bg-gradient-to-br from-orange-500 to-pink-500 text-white'>
                         Download CV
 
