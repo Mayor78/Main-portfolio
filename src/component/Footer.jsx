@@ -11,8 +11,8 @@ const Footer = () => {
         </div>
         <div className=" text-white h-[20px]  flex py-3 items-center justify-center mb-5 ">
          <a href="https://github.com/Mayor78"> <FaGithub className='5-xl m-10 hover:bg-primary-color '/></a>
-         <a href=""> <MdWhatsapp className='5-xl m-8 ' /></a>
-         <a href=""><FaXTwitter className='5-xl m-8 '/></a>
+         <a href="https://wa.link/js0ug9"> <MdWhatsapp className='5-xl m-8 ' /></a>
+         <a href="https://twitter.com/Abraham00803508"><FaXTwitter className='5-xl m-8 '/></a>
 
         </div>
     
