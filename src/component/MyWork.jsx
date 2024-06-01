@@ -1,5 +1,5 @@
 import React from 'react'
-
+import marine from '../assets/marine.png'
 const MyWork = () => {
 
     const cal='https://anyimage.io/storage/uploads/f9147e3f4b193aeb43bfe3b3ad73f5cc'
@@ -85,6 +85,20 @@ const MyWork = () => {
                      <span className='text-2xl font-bold text-white tracking-wider'>Expenses Tracker</span>
                      <div className="pt-8 text-center">
                          <a href="https://expenses-tracker-red.vercel.app/">
+                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold'>Live</button>
+                         </a>
+                        </div>
+                        </div>
+                    </div>
+                    <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+                    shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center
+                    h-[200px] bg-cover relative">
+                        <img src={marine} layout='fill' alt="" />
+                    <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col
+                    justify-center items-center">
+                     <span className='text-2xl font-bold text-white tracking-wider'>Marine school website</span>
+                     <div className="pt-8 text-center">
+                         <a href="https://institute-of-marine-website-emyk.vercel.app">
                              <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold'>Live</button>
                          </a>
                         </div>
